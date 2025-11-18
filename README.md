@@ -1,1 +1,1 @@
-This is the final project of the Game Development specialization at the [Open Source Society University](https://github.com/edcedcedcedc/computer-science).
+This is the final project for the Game Development specialization of Open Education in Computer Science at [Open Source Society University](https://github.com/edcedcedcedc/computer-science).
