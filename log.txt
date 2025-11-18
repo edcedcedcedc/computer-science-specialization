@@ -1,0 +1,13 @@
+03/10/25
+    I will share a link of the project that we built at the end
+
+05/10/25
+    Introduction to unreal, general overview, actor class, position vectors
+    Collision
+
+13/10/25
+    I switched the courses but keep the same name for unification
+    Introduction, project setup
+    Animations
+        the anim instance, animation blueprint, run animation, trimming animations, rotate character to movement,
+        fire weapon function
