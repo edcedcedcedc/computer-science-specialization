@@ -1,11 +1,12 @@
-This is the final project for the Game Development specialization of Open Education in Computer Science at [Open Source Society University](https://github.com/edcedcedcedc/computer-science).
+Final project for the Game Development specialization of Open Education in Computer Science from [Open Source Society University](https://github.com/edcedcedcedc/computer-science).
 
+--- 
 
-## Topics Covered
+#### Topics Covered
 
-- **Character Creation and Movement**
-- **Input for PC and Console Controllers**
-- **Extensive Use of Animation Blueprints**
+- Character Creation and Movement
+- Input for PC and Console Controllers
+- Extensive Use of Animation Blueprints
   - Anim Instances and their C++ parents
   - 1D and 2D Blendspaces
   - Strafing, Turn-in-Place, Aim Offsets
@@ -91,8 +92,12 @@ This is the final project for the Game Development specialization of Open Educat
   - Light baking
   - Post-process effects
 
-## Log
+--- 
+
+#### Log
 *(See `/log`)*
 
-## Resources 
+---
+
+#### Resources 
 link to course https://www.udemy.com/course/unreal-engine-the-ultimate-shooter-course/
