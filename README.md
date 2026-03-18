@@ -98,6 +98,3 @@ Final project for the Game Development specialization of Open Education in Compu
 *(See `/log`)*
 
 ---
-
-#### Resources 
-link to course https://www.udemy.com/course/unreal-engine-the-ultimate-shooter-course/
