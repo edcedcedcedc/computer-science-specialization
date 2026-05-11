@@ -29,6 +29,10 @@ protected:
 	//Called when the fire button is pressed
 	void FireWeapon();
 	bool GetBeamEndLocation(const FVector& MuzzleSocketLocation, FVector& OutBeamLocation);
+
+	//set bAiming to true or false with button presses
+	void AimingButtonPressed();
+	void AimingButtonReleased();
 	
 
 public:	
@@ -73,6 +77,15 @@ private:
 	//Smoke trail for bullets
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	UParticleSystem* BeamParticles;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
+	bool bAiming;
+
+	//default camera field of view value to interpolate back to when not aiming
+	float CameraDefaultFOV;
+
+	//field of view value to use while zoomed in (when aiming)
+	float CameraZoomedFOV;
 
 public:
 	//Returns CameraBoom subobject
